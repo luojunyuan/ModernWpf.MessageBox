@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Company>OpenByte</Company>
     <Authors>OpenByte</Authors>
-    <PackageId>ModernWpf.MessageBox</PackageId>
+    <PackageId>ModernWpf.MessageBox.K1mlka</PackageId>
     <Product>ModernWpf.MessageBox</Product>
     <Description>An alternative to System.Windows.MessageBox using ModernWpfUI windows.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
@@ -11,7 +11,7 @@
     <RepositoryUrl>https://github.com/OpenByteDev/ModernWpf.MessageBox</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>WPF XAML UI Theme Controls Fluent Modern Metro WinUI</PackageTags>
-    <Version>0.5.1</Version>
+    <Version>0.0.2</Version>
   </PropertyGroup>
 
   <PropertyGroup>
